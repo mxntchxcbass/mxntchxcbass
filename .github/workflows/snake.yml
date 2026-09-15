@@ -2,11 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 매일 자정(UTC) 자동 갱신
-  workflow_dispatch: {}    # Actions 탭에서 수동 실행 버튼도 생성됨
+    - cron: "0 0 * * *"
+  workflow_dispatch: {} 
   push:
-    branches:
-      - main
+    paths:
+      - README.md
+      - .github/workflows/snake.yml
 
 jobs:
   generate:
@@ -15,13 +16,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate snake animation SVG
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
           github_user_name: mxntchxcbass
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23F7931E&color_dots=%230D1117,%231A1D23,%238B949E,%23C9D1D9,%23F7931E
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F7931E&color_dots=%230D1117,%231A1D23,%238B949E,%23C9D1D9,%23F7931E
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
