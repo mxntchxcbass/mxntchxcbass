@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,100:1A1D23&amp;height=200&amp;section=header&amp;text=CHOI%20GIHO&amp;animation=fadeIn&amp;fontSize=70&amp;fontColor=F7931E&amp;fontAlignY=35&amp;desc=QA%2FQC%20Candidate%20%7C%20Defense%20%26%20Precision%20Manufacturing&amp;descAlignY=58&amp;descSize=16&amp;descColor=C9D1D9" width="100%" alt="CHOI GIHO — Precision Terminal" />
+<h1>CHOI GIHO</h1>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=F7931E&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=650&amp;height=140&amp;lines=%24+whoami;%24+role%3A+QA%2FQC+candidate;%24+focus%3A+SPC+%C2%B7+RCA+%C2%B7+ML-based+defect+detection;%24+domain%3A+defense+%26+precision+manufacturing;%24+status%3A+open+to+work" alt="GitHub profile visualization" />
+<p><strong>Quality Engineering · Data Analytics</strong></p>
+
+<p>
+  Statistical Process Control · Root Cause Analysis · Machine Learning
+</p>
 
 <br/>
 
