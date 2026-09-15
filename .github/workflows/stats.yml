@@ -22,7 +22,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F7931E&icon_color=F7931E&text_color=C9D1D9&ring_color=F7931E
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate top-langs card
         uses: readme-tools/github-readme-stats-action@v1
@@ -30,7 +30,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=0D1117&title_color=F7931E&text_color=C9D1D9
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit cards
         run: |
