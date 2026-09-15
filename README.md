@@ -316,13 +316,14 @@ currently:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-mxntchxcbass-F7931E?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=1A1D23)](https://github.com/mxntchxcbass)
+[![Email](https://img.shields.io/badge/Email-2A9D8F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choigiho16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2A9D8F?style=for-the-badge)](www.linkedin.com/in/giho-choi-46378432a)
+
 
 <br/>
 
 *Measure carefully. Find the cause. Improve the process.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:1A1D23&amp;height=120&amp;section=footer" alt="GitHub profile visualization" />
-[![Email](https://img.shields.io/badge/Email-2A9D8F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choigiho16@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2A9D8F?style=for-the-badge)](www.linkedin.com/in/giho-choi-46378432a)
 
 </div>
