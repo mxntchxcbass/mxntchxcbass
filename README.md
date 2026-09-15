@@ -22,9 +22,9 @@
 
 </div>
 
----
+<br/>
 
-### `$ cat about.md`
+## About
 
 I'm a quality engineering candidate bridging **statistical process control** and **applied data science** — treating defect detection, root-cause analysis, and anomaly detection as a single quality-cost problem, not separate disciplines. Most of my project work sits in defense-manufacturing-adjacent domains: sensor-based defect classification, SPC control charting, and ML pipelines built to survive contact with messy factory-floor data.
 
@@ -37,9 +37,9 @@ DIFF      : SPC + hypothesis testing + ML, applied to real defect data
 OPEN_TO   : QA/QC Engineer roles (defense & manufacturing)
 ```
 
----
+<br/>
 
-### `$ ls tech-stack/`
+## Tech Stack
 
 <div align="center">
 
@@ -61,9 +61,9 @@ OPEN_TO   : QA/QC Engineer roles (defense & manufacturing)
 
 </div>
 
----
+<br/>
 
-### `$ cat specialties.yml`
+## Specialties
 
 <div align="center">
 
@@ -74,22 +74,22 @@ OPEN_TO   : QA/QC Engineer roles (defense & manufacturing)
 
 </div>
 
----
+<br/>
 
-### `$ cat expertise.table`
+## Areas of Expertise
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
 | Statistical Process Control | ●●●●○ | Nelson / Western Electric rule-based control charts implemented on real sensor data |
-| Hypothesis Testing & RCA | ●●●●○ | Mann-Whitney U, BH-FDR correction, bidirectional-deviation (`\|z\|`) feature design |
+| Hypothesis Testing & RCA | ●●●●○ | Mann-Whitney U, BH-FDR correction, bidirectional-deviation (abs-z) feature design |
 | Supervised Defect Classification | ●●●●○ | RandomForest / XGBoost / logistic regression, recall-priority threshold tuning |
 | Anomaly Detection | ●●●○○ | IsolationForest, One-Class SVM, LOF — sequence- and timepoint-level scoring |
 | Data Pipelines & Automation | ●●●●○ | Staged pipelines, parquet caching, rollback-gated experiment stages |
 | Dashboards & Reporting | ●●●○○ | Streamlit apps, Tableau dashboards, MES-style quality dashboards |
 
----
+<br/>
 
-### `$ ls featured-projects/`
+## Featured Projects
 
 <details open>
 <summary><strong>🟠 Anodized-Coating Defect Early-Warning System</strong> — SPC · defense manufacturing</summary>
@@ -103,7 +103,7 @@ Built a unified defect-classification and anomaly-detection pipeline on anodized
 | **Scale** | 100 part sequences, 11 defect types, 2 machines |
 | **Impact** | Compact 11-feature hypothesis-grounded model (ROC-AUC ≈ 0.98) outperformed a 96-feature baseline; F2-tuned threshold (≈0.32) caught all defects; LOF-based anomaly detection separated sequences at ≈AUC 1.0 |
 
-Key finding: single-direction mean tests failed because defects scatter bidirectionally — absolute-deviation (`|z|`) features were the actual signal, and survived BH-FDR correction.
+Key finding: single-direction mean tests failed because defects scatter bidirectionally — absolute-deviation features were the actual signal, and survived BH-FDR correction.
 
 </details>
 
@@ -177,9 +177,9 @@ A Streamlit app that converts stem-separated audio into playable sheet music, bu
 
 </details>
 
----
+<br/>
 
-### `$ cat project-timeline.log`
+## Project Timeline
 
 > No formal work experience yet — track record below is project- and competition-based.
 
@@ -190,9 +190,9 @@ A Streamlit app that converts stem-separated audio into playable sheet music, bu
 - **Ongoing** · DAKER (DACON) Hackathon — drug-prevention idea challenge, quality/SPC-lens proposal
 - **Ongoing** · 2026 K-Health unopened medical-data competition — SPC-based in-hospital early-warning score
 
----
+<br/>
 
-### `$ cat education.badge`
+## Education
 
 <div align="center">
 
@@ -200,9 +200,9 @@ A Streamlit app that converts stem-separated audio into playable sheet music, bu
 
 </div>
 
----
+<br/>
 
-### `$ cat certifications.log`
+## Certifications
 
 **Obtained**
 
@@ -216,9 +216,9 @@ A Streamlit app that converts stem-separated audio into playable sheet music, bu
 ![QME](https://img.shields.io/badge/품질경영기사-In_progress-8B949E?style=flat-square&labelColor=1A1D23)
 ![ISE](https://img.shields.io/badge/산업안전기사-In_progress-8B949E?style=flat-square&labelColor=1A1D23)
 
----
+<br/>
 
-### `$ cat github-analytics.sh`
+## GitHub Analytics
 
 <div align="center">
 
@@ -241,35 +241,9 @@ A Streamlit app that converts stem-separated audio into playable sheet music, bu
 
 </div>
 
----
-
-### `$ cat profile-summary.log`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=mxntchxcbass&theme=github_dark" width="100%"/>
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=mxntchxcbass&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=mxntchxcbass&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=mxntchxcbass&theme=github_dark" width="32%"/>
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=mxntchxcbass&theme=github_dark" width="100%"/>
 
-</div>
-
----
-
-### `$ cat contribution-snake.svg`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mxntchxcbass/mxntchxcbass/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
----
-
-### `$ cat current-focus.yml`
+## Currently
 
 ```yaml
 currently:
@@ -285,11 +259,11 @@ currently:
     - "QA/QC Engineer — defense & precision manufacturing"
 ```
 
----
+<br/>
 
 <div align="center">
 
-### `$ cat connect.sh`
+## Connect
 
 [![GitHub](https://img.shields.io/badge/GITHUB-mxntchxcbass-F7931E?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=1A1D23)](https://github.com/mxntchxcbass)
 
