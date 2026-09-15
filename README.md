@@ -222,12 +222,14 @@ A Streamlit app that converts stem-separated audio into playable sheet music, bu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mxntchxcbass&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F7931E&icon_color=F7931E&text_color=C9D1D9&ring_color=F7931E" width="49%"/>
+<img src="./profile/stats.svg" width="49%"/>
 <img src="https://streak-stats.demolab.com?user=mxntchxcbass&hide_border=true&background=0D1117&ring=F7931E&fire=F7931E&currStreakLabel=F7931E&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxntchxcbass&layout=compact&hide_border=true&bg_color=0D1117&title_color=F7931E&text_color=C9D1D9" width="49%"/>
+<img src="./profile/top-langs.svg" width="49%"/>
 
 </div>
+
+> `stats.svg` / `top-langs.svg`는 리포에 `stats.yml` 워크플로를 추가하면 자동 생성됩니다 (아래 설정 방법 참고).
 
 <div align="center">
 
