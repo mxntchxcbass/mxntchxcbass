@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1A1D23&height=200&section=header&text=CHOI%20GIHO&fontSize=70&fontColor=F7931E&fontAlignY=35&desc=Quality%20Engineer%20(QA%2FQC)%20%7C%20Defense%20%26%20Precision%20Manufacturing&descAlignY=58&descSize=16&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0D1117,100:1A1D23&amp;height=200&amp;section=header&amp;text=CHOI%20GIHO&amp;animation=fadeIn&amp;fontSize=70&amp;fontColor=F7931E&amp;fontAlignY=35&amp;desc=QA%2FQC%20Candidate%20%7C%20Defense%20%26%20Precision%20Manufacturing&amp;descAlignY=58&amp;descSize=16&amp;descColor=C9D1D9" width="100%" alt="CHOI GIHO — Precision Terminal" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=F7931E&background=0D1117&center=true&vCenter=true&multiline=true&width=650&height=140&lines=%24+whoami;CHOI+GIHO+%E2%80%94+Quality+Engineer+(QA%2FQC);%24+focus%3A+SPC+%C2%B7+RCA+%C2%B7+ML-based+defect+detection;%24+domain%3A+defense+%26+precision+manufacturing;%24+status%3A+open+to+work" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=F7931E&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=650&amp;height=140&amp;lines=%24+whoami;%24+role%3A+QA%2FQC+candidate;%24+focus%3A+SPC+%C2%B7+RCA+%C2%B7+ML-based+defect+detection;%24+domain%3A+defense+%26+precision+manufacturing;%24+status%3A+open+to+work" alt="GitHub profile visualization" />
 
 <br/>
 
@@ -24,28 +24,35 @@
 
 <br/>
 
-## About
+## `$ whoami`
 
 I'm a quality engineering candidate bridging **statistical process control** and **applied data science** — treating defect detection, root-cause analysis, and anomaly detection as a single quality-cost problem, not separate disciplines. Most of my project work sits in defense-manufacturing-adjacent domains: sensor-based defect classification, SPC control charting, and ML pipelines built to survive contact with messy factory-floor data.
 
 ```bash
-$ whoami
-ROLE      : Quality Engineer (QA/QC) — new graduate
-DOMAIN    : Defense manufacturing / precision manufacturing
-STACK     : Python, SQL, scikit-learn, XGBoost, Streamlit, Tableau
-DIFF      : SPC + hypothesis testing + ML, applied to real defect data
-OPEN_TO   : QA/QC Engineer roles (defense & manufacturing)
+ROLE="Quality engineering candidate — QA/QC"
+EXP="New graduate; project and competition experience"
+DOMAIN="Defense and precision manufacturing"
+STACK="Python, SQL, scikit-learn, XGBoost, Streamlit, Tableau"
+OPEN_TO="QA/QC Engineer roles in defense and manufacturing"
 ```
 
 <br/>
 
-## Tech Stack
+## `$ ls ./stack`
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=python,r,git,github,vscode,jupyter,mysql)
-<br/>
-![Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,linux,bash)
+**Languages & database**
+
+![Python, R, MySQL](https://skillicons.dev/icons?i=python,r,mysql&theme=dark&perline=7)
+
+**Machine learning**
+
+![Scikit-learn, TensorFlow, PyTorch](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark&perline=7)
+
+**Development & systems**
+
+![Git, GitHub, VS Code, Linux, Bash](https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark&perline=7)
 
 </div>
 
@@ -63,33 +70,35 @@ OPEN_TO   : QA/QC Engineer roles (defense & manufacturing)
 
 <br/>
 
-## Specialties
+## `$ cat specialties.conf`
 
 <div align="center">
 
-![SPC](https://img.shields.io/badge/STATISTICAL_PROCESS_CONTROL-F7931E?style=for-the-badge&labelColor=1A1D23&color=0D1117)
-![RCA](https://img.shields.io/badge/ROOT_CAUSE_ANALYSIS-F7931E?style=for-the-badge&labelColor=1A1D23&color=0D1117)
-![ML](https://img.shields.io/badge/DEFECT_CLASSIFICATION_ML-F7931E?style=for-the-badge&labelColor=1A1D23&color=0D1117)
-![ANOMALY](https://img.shields.io/badge/ANOMALY_DETECTION-F7931E?style=for-the-badge&labelColor=1A1D23&color=0D1117)
+![SPC](https://img.shields.io/badge/STATISTICAL_PROCESS_CONTROL-F7931E?style=for-the-badge&labelColor=1A1D23&color=F7931E)
+![RCA](https://img.shields.io/badge/ROOT_CAUSE_ANALYSIS-F7931E?style=for-the-badge&labelColor=1A1D23&color=F7931E)
+![ML](https://img.shields.io/badge/DEFECT_CLASSIFICATION_ML-F7931E?style=for-the-badge&labelColor=1A1D23&color=F7931E)
+![ANOMALY](https://img.shields.io/badge/ANOMALY_DETECTION-F7931E?style=for-the-badge&labelColor=1A1D23&color=F7931E)
 
 </div>
 
 <br/>
 
-## Areas of Expertise
+## `$ inspect --expertise`
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Statistical Process Control | ●●●●○ | Nelson / Western Electric rule-based control charts implemented on real sensor data |
-| Hypothesis Testing & RCA | ●●●●○ | Mann-Whitney U, BH-FDR correction, bidirectional-deviation (abs-z) feature design |
-| Supervised Defect Classification | ●●●●○ | RandomForest / XGBoost / logistic regression, recall-priority threshold tuning |
-| Anomaly Detection | ●●●○○ | IsolationForest, One-Class SVM, LOF — sequence- and timepoint-level scoring |
-| Data Pipelines & Automation | ●●●●○ | Staged pipelines, parquet caching, rollback-gated experiment stages |
-| Dashboards & Reporting | ●●●○○ | Streamlit apps, Tableau dashboards, MES-style quality dashboards |
+| Statistical Process Control | Applied in projects | Nelson / Western Electric rule-based control charts implemented on real sensor data |
+| Hypothesis Testing & RCA | Applied in projects | Mann-Whitney U, BH-FDR correction, bidirectional-deviation (abs-z) feature design |
+| Supervised Defect Classification | Applied in projects | RandomForest / XGBoost / logistic regression, recall-priority threshold tuning |
+| Anomaly Detection | Project experience | IsolationForest, One-Class SVM, LOF — sequence- and timepoint-level scoring |
+| Data Pipelines & Automation | Applied in projects | Staged pipelines, parquet caching, rollback-gated experiment stages |
+| Dashboards & Reporting | Project experience | Streamlit apps, Tableau dashboards, MES-style quality dashboards |
 
 <br/>
 
-## Featured Projects
+## `$ ls ./projects --featured`
+
+Project scope and results below reflect my project records. Scores use each project’s own evaluation setup.
 
 <details open>
 <summary><strong>🟠 Anodized-Coating Defect Early-Warning System</strong> — SPC · defense manufacturing</summary>
@@ -101,9 +110,9 @@ Built a unified defect-classification and anomaly-detection pipeline on anodized
 |---|---|
 | **Stack** | Python, pandas, scikit-learn, XGBoost, statsmodels |
 | **Scale** | 100 part sequences, 11 defect types, 2 machines |
-| **Impact** | Compact 11-feature hypothesis-grounded model (ROC-AUC ≈ 0.98) outperformed a 96-feature baseline; F2-tuned threshold (≈0.32) caught all defects; LOF-based anomaly detection separated sequences at ≈AUC 1.0 |
+| **Impact** | Compact 11-feature hypothesis-grounded model (ROC-AUC ≈ 0.98) outperformed a 96-feature baseline; F2-tuned threshold (≈0.32) achieved full defect recall in the reported evaluation; LOF-based anomaly detection separated sequences at ≈AUC 1.0 |
 
-Key finding: single-direction mean tests failed because defects scatter bidirectionally — absolute-deviation features were the actual signal, and survived BH-FDR correction.
+Reported project finding: single-direction mean tests failed because defects scatter bidirectionally — absolute-deviation features were the actual signal, and survived BH-FDR correction.
 
 </details>
 
@@ -179,30 +188,42 @@ A Streamlit app that converts stem-separated audio into playable sheet music, bu
 
 <br/>
 
-## Project Timeline
+## `$ git log --experience`
 
-> No formal work experience yet — track record below is project- and competition-based.
+New graduate with project and competition experience; no formal employment to date.
 
+- **Ongoing** · DAKER (DACON) Hackathon — drug-prevention idea challenge, quality/SPC-lens proposal
+- **Ongoing** · 2026 K-Health unopened medical-data competition — SPC-based in-hospital early-warning score
 - **2026.06 – 2026.08** · Smart Factory Quality Grade Prediction — bootcamp capstone project
 - **2026.05 – 2026.06** · Anodized-Coating Defect Early-Warning System — bootcamp applied project (defense manufacturing)
 - **2026** · Steel Surface Defect Classification — team ML project
 - **2026** · Mosquito Flight Trajectory Prediction — DACON competition
-- **Ongoing** · DAKER (DACON) Hackathon — drug-prevention idea challenge, quality/SPC-lens proposal
-- **Ongoing** · 2026 K-Health unopened medical-data competition — SPC-based in-hospital early-warning score
 
 <br/>
 
-## Education
+## `$ cat achievements.tsv`
 
 <div align="center">
 
-[![Education](https://img.shields.io/badge/B.S._Systems_Management_Engineering-Sungkyunkwan_University-F7931E?style=for-the-badge&labelColor=1A1D23)](https://github.com/mxntchxcbass)
+| Credential milestone | Status |
+|:---|:---:|
+| ADsP | Obtained |
+| SQLD | Obtained |
+| OPIc | Obtained |
+
+</div>
+
+## `$ cat education.txt`
+
+<div align="center">
+
+[![Education](https://img.shields.io/badge/B.S._Systems_Management_Engineering-Sungkyunkwan_University-F7931E?style=for-the-badge&labelColor=1A1D23)](https://www.skku.edu/eng/)
 
 </div>
 
 <br/>
 
-## Certifications
+## `$ verify --certifications`
 
 **Obtained**
 
@@ -218,34 +239,57 @@ A Streamlit app that converts stem-separated audio into playable sheet music, bu
 
 <br/>
 
-## GitHub Analytics
+## `$ github --analytics`
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=mxntchxcbass&hide_border=true&background=0D1117&ring=F7931E&fire=F7931E&currStreakLabel=F7931E&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="49%"/>
+<img src="./profile/stats.svg" width="49%" alt="GitHub profile visualization" />
+<img src="https://streak-stats.demolab.com?user=mxntchxcbass&amp;hide_border=true&amp;background=0D1117&amp;ring=F7931E&amp;fire=F7931E&amp;currStreakLabel=F7931E&amp;sideLabels=C9D1D9&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;dates=8B949E" width="49%" alt="GitHub profile visualization" />
 
-<img src="./profile/top-langs.svg" width="49%"/>
+<img src="./profile/top-langs.svg" width="49%" alt="GitHub profile visualization" />
 
 </div>
 
-> `stats.svg` / `top-langs.svg`는 리포에 `stats.yml` 워크플로를 추가하면 자동 생성됩니다 (아래 설정 방법 참고).
+## `$ github --trophies`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mxntchxcbass&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mxntchxcbass&amp;theme=onedark&amp;no-frame=true&amp;column=7&amp;margin-w=8&amp;margin-h=8" width="100%" alt="GitHub profile visualization" />
 
 </div>
 
+
+## `$ github --activity`
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mxntchxcbass&bg_color=0D1117&color=F7931E&line=F7931E&point=C9D1D9&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mxntchxcbass&amp;bg_color=0D1117&amp;color=F7931E&amp;line=F7931E&amp;point=C9D1D9&amp;area=true&amp;hide_border=true" width="100%" alt="GitHub profile visualization" />
 
 </div>
 
 <br/>
 
-## Currently
+## `$ github --summary`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxntchxcbass&amp;theme=github_dark&amp;title_color=F7931E&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=1A1D23&amp;icon_color=F7931E&amp;chart_color=F7931E" alt="profile details" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mxntchxcbass&amp;theme=github_dark&amp;title_color=F7931E&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=1A1D23&amp;icon_color=F7931E&amp;chart_color=F7931E" alt="repos per language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxntchxcbass&amp;theme=github_dark&amp;title_color=F7931E&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=1A1D23&amp;icon_color=F7931E&amp;chart_color=F7931E" alt="most commit language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mxntchxcbass&amp;theme=github_dark&amp;title_color=F7931E&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=1A1D23&amp;icon_color=F7931E&amp;chart_color=F7931E" alt="stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mxntchxcbass&amp;theme=github_dark&amp;title_color=F7931E&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;border_color=1A1D23&amp;icon_color=F7931E&amp;chart_color=F7931E&amp;utcOffset=9" alt="productive time" width="49%" />
+
+</div>
+
+## `$ run contribution-snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mxntchxcbass/mxntchxcbass/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake in the Precision Terminal palette" width="100%" />
+
+</div>
+
+## `$ cat current-focus.yml`
 
 ```yaml
 currently:
@@ -263,16 +307,16 @@ currently:
 
 <br/>
 
-<div align="center">
+## `$ connect`
 
-## Connect
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-mxntchxcbass-F7931E?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=1A1D23)](https://github.com/mxntchxcbass)
 
 <br/>
 
-*"Quality is not an act, it is a habit."* — Aristotle
+*Measure carefully. Find the cause. Improve the process.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1D23&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:1A1D23&amp;height=120&amp;section=footer" alt="GitHub profile visualization" />
 
 </div>
