@@ -28,7 +28,7 @@
 
 <br/>
 
-## `$ whoami`
+## `About Me`
 
 I'm a quality engineering candidate bridging **statistical process control** and **applied data science** — treating defect detection, root-cause analysis, and anomaly detection as a single quality-cost problem, not separate disciplines. Most of my project work sits in defense-manufacturing-adjacent domains: sensor-based defect classification, SPC control charting, and ML pipelines built to survive contact with messy factory-floor data.
 
@@ -42,7 +42,7 @@ OPEN_TO="QA/QC Engineer roles in defense and manufacturing"
 
 <br/>
 
-## `$ ls ./stack`
+## `Tech Stack`
 
 <div align="center">
 
@@ -74,7 +74,7 @@ OPEN_TO="QA/QC Engineer roles in defense and manufacturing"
 
 <br/>
 
-## `$ cat specialties.conf`
+## `Specialties`
 
 <div align="center">
 
@@ -87,7 +87,7 @@ OPEN_TO="QA/QC Engineer roles in defense and manufacturing"
 
 <br/>
 
-## `$ inspect --expertise`
+## `Areas of Expertise`
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
@@ -100,7 +100,7 @@ OPEN_TO="QA/QC Engineer roles in defense and manufacturing"
 
 <br/>
 
-## `$ ls ./projects --featured`
+## `Featured Projects`
 
 Project scope and results below reflect my project records. Scores use each project’s own evaluation setup.
 
@@ -192,7 +192,7 @@ A Streamlit app that converts stem-separated audio into playable sheet music, bu
 
 <br/>
 
-## `$ git log --experience`
+## `Project Experience`
 
 New graduate with project and competition experience; no formal employment to date.
 
@@ -205,7 +205,7 @@ New graduate with project and competition experience; no formal employment to da
 
 <br/>
 
-## `$ cat achievements.tsv`
+## `Achievements`
 
 <div align="center">
 
@@ -217,7 +217,7 @@ New graduate with project and competition experience; no formal employment to da
 
 </div>
 
-## `$ cat education.txt`
+## `Education`
 
 <div align="center">
 
@@ -227,7 +227,7 @@ New graduate with project and competition experience; no formal employment to da
 
 <br/>
 
-## `$ verify --certifications`
+## `Certifications`
 
 **Obtained**
 
@@ -243,7 +243,7 @@ New graduate with project and competition experience; no formal employment to da
 
 <br/>
 
-## `$ github --analytics`
+## `Github Stats`
 
 <div align="center">
 
@@ -254,7 +254,7 @@ New graduate with project and competition experience; no formal employment to da
 
 </div>
 
-## `$ github --trophies`
+## `Github Trophies`
 
 <div align="center">
 
@@ -263,7 +263,7 @@ New graduate with project and competition experience; no formal employment to da
 </div>
 
 
-## `$ github --activity`
+## `Contribution Activity`
 
 <div align="center">
 
@@ -273,7 +273,7 @@ New graduate with project and competition experience; no formal employment to da
 
 <br/>
 
-## `$ github --summary`
+## `Github Summary`
 
 <div align="center">
 
@@ -285,7 +285,7 @@ New graduate with project and competition experience; no formal employment to da
 
 </div>
 
-## `$ run contribution-snake`
+## `Contribution Snake`
 
 <div align="center">
 
@@ -293,7 +293,7 @@ New graduate with project and competition experience; no formal employment to da
 
 </div>
 
-## `$ cat current-focus.yml`
+## `Current Focus`
 
 ```yaml
 currently:
@@ -311,7 +311,7 @@ currently:
 
 <br/>
 
-## `$ connect`
+## `Connect`
 
 <div align="center">
 
